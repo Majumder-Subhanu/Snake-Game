@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ThreadsController
+comment1.params=
+comment1.target=void\ run()
+comment2.params=
+comment2.target=void\ pauser()
+comment3.params=
+comment3.target=void\ checkCollision()
+comment4.params=
+comment4.target=void\ stopTheGame()
+comment5.params=dir
+comment5.target=void\ moveInterne(int)
+comment6.params=
+comment6.target=void\ moveExterne()
+comment7.params=
+comment7.target=void\ deleteTail()
+numComments=8

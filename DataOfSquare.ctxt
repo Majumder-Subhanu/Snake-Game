@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DataOfSquare
+comment1.params=col
+comment1.target=DataOfSquare(int)
+comment2.params=c
+comment2.target=void\ lightMeUp(int)
+numComments=3
